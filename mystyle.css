@@ -1,0 +1,32 @@
+#Photo{
+    width: 10%;
+    margin: 10px;
+}
+#description{
+    width: 90%;
+    padding: 20px;
+    margin-top: 0;
+    padding-top: 0;
+}
+#main-elements{
+    display: flex;
+}
+#copyright{
+    text-align: center;
+    padding-top: 20px;
+    background-color: darkblue;
+    color: aliceblue;
+    height: 50px;
+}
+#formId{
+    padding-top: 100px;
+}
+#skills{
+    display: flex;
+}
+.social{
+    float: right;
+}
+body{
+    font-family: sans-serif;
+}
